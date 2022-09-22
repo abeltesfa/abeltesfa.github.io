@@ -1674,3 +1674,17 @@ input, select, textarea {
 			display: flex;
 			flex-wrap: wrap;
 		}
+
+		.imageprojpreview{
+			width: 75px;
+			height:75px;
+		}
+
+		.projpreview{
+			display: flex;
+			align-items: center;
+		}
+
+		.projspacer{
+			width: 23px;
+		}
